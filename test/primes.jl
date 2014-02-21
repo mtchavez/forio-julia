@@ -1,5 +1,5 @@
 using Base.Test
-include("./primes.jl")
+include("../primes.jl")
 
 @test is_prime(2)   == true
 @test is_prime(3)   == true
