@@ -1,4 +1,4 @@
-tests = ["primes"]
+tests = ["derivative", "primes", "quadratic"]
 
 println("Running tests:")
 
